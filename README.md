@@ -14,7 +14,6 @@ I am from Vittal a city in Bantwal Taluk, Dakshina Kannada, Mangalore.
 <a href=""><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
 ## 🔧 Tools
-<a href=""><img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
