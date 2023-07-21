@@ -1,7 +1,7 @@
 # Hi👋, I'm Prajwal B P Barlaya  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 I’m currently pursuing my Third-year B.E in Information Science from R.N.S Institute Of Technology, Bangalore.<br>
-I am from Vittal a city in Bantwal Taluk, Dakshina Kannada, Mangalore.
+I am from Vittal (near Puttur) a city in Bantwal Taluk, Dakshina Kannada, Mangalore.
 
 - 👀 I’m interested in Web Development and Java Programming.
 - 🌱 Currently learning and acquiring knowledge in the field of MERN looking forward to become a Full Stack Developer.
