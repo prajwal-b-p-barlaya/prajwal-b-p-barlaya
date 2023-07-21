@@ -8,7 +8,7 @@ I am from Vittal a city in Bantwal Taluk, Dakshina Kannada, Mangalore.
 - 💞️ I’m looking to collaborate on Wed Dev Projects.
 
 ## 👨‍💻 Languages
-<a href="#"><img alt="" style="width:25px" src="images (1).png" /></a>
+<a href="#"><img alt="" style="width:50px" src="images (1).png" /></a>
 <a href="#"><img alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <a href="#"><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
