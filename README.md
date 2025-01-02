@@ -1,6 +1,8 @@
 # Hi👋, I'm Prajwal B P Barlaya  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I’m currently pursuing my Third-year B.E in Information Science from R.N.S Institute Of Technology, Bangalore.<br>
+👨‍💻 Associate Software Engineer @Accenture.
+
+I pursued my B.E in Information Science from R.N.S Institute Of Technology, Bangalore (2020-24).<br>
 I am from Vittal (near Puttur) a city in Bantwal Taluk, Dakshina Kannada, Mangalore.
 
 - 👀 I’m interested in Web Development and Java Programming.
